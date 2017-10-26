@@ -9,6 +9,7 @@ body {
 .header {
 	color: white;
 	padding: 40px 0;
+	
 }
 
 .header h1, .header a {
@@ -70,3 +71,8 @@ body {
 	padding-left: 20px;
 	color: white;
 }
+
+.custom-button {
+	margin: 0 auto;
+}
+
